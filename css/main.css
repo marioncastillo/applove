@@ -67,6 +67,7 @@ header{
 #home .container{
   color: white;
   padding: 70px;
+  text-align:center;
 }
 .text-home{
   font-size: 53px;
@@ -100,9 +101,14 @@ header{
   letter-spacing: 2px;
 }
 
+h2{
+  text-align: center;
+  padding: 20PX;
+}
 h4{
   margin-left: 100px;
   margin-right: 100px;
+  text-align:center;
 }
 footer{
   text-align:center;
