@@ -40,6 +40,7 @@
 .col-4{
 	/*(4/12)*100*/
 	width: 33.333333%;
+	 cursor: pointer;
 }
 
 .col-5{
